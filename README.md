@@ -1,1 +1,1 @@
-# Serial-protocol-impleted-in-Simulink
+# Serial-protocol-implemented-in-Simulink
